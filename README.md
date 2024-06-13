@@ -18,8 +18,8 @@ The complete description of the project can be found [Here](https://link-url-her
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
+git clone https://github.com/omarabdul81/MSP_Optimization_DB.git
+cd MSP_Optimization_DB
 ```
 
 ### Install Required Packages
