@@ -53,6 +53,6 @@ jupyter notebook
 
 Open and run the notebooks in the following order:
 
-1. **05_00_input_data_generator.ipynb**: Generates synthetic input data required to test optimization workflows.
+1. **05_00_input_data_generator.ipynb**: Generates synthetic input data required to test optimization workflow.
 2. **05_01_load_data.ipynb**: Loads input data into the SQLite3 database.
 3. **05_02_multisite_optimization.ipynb**: Implements the serial optimization workflow.
