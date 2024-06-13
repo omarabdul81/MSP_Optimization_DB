@@ -1,0 +1,12 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# SQL database
+*.db
+
+# PyCharm
+.idea/
+
+# Local data files
+resources/
