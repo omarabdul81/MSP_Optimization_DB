@@ -56,3 +56,7 @@ Open and run the notebooks in the following order:
 1. **05_00_input_data_generator.ipynb**: Generates synthetic input data required to test optimization workflow.
 2. **05_01_load_data.ipynb**: Loads input data into the SQLite3 database.
 3. **05_02_multisite_optimization.ipynb**: Implements the serial optimization workflow.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/omarabdul81/MSP_Optimization_DB/blob/main/LICENSE) file for details.
