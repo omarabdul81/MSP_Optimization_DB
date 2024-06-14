@@ -11,7 +11,7 @@ Many of these mathematical optimization solutions must process large datasets re
 - **pandas**: To preprocess and manipulate data.
 - **matplotlib** and **seaborn**: To visualize and analyze the input and output of the optimization workflow.
 
-The complete description of the project can be found [Here](https://link-url-here.org).
+The complete description of the project can be found [Here](https://medium.com/@omarhokudai/mathematical-optimization-and-databases-1528cb566a1c).
 
 ## Installation and Usage
 
